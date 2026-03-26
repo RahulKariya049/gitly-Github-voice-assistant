@@ -7,3 +7,4 @@ __pycache__/
 test_mic.py
 STT engine
 config
+cache_data

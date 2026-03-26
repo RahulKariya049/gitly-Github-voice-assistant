@@ -2,9 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
-# Translations
 test_mic.py
 STT engine
 config
-cache_data
+cache_data/repo_cache.JSON
